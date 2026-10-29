@@ -1,0 +1,121 @@
+customer_id,customer_name,city,state,signup_date
+C1001,Aisha Gupta,Mumbai,Rajasthan,2024-01-29
+C1002,Kavya Singh,Hyderabad,Rajasthan,2026-02-08
+C1003,Rahul Nair,Pune,Maharashtra,2023-12-09
+C1004,Aisha Khan,Delhi,Rajasthan,2025-12-26
+C1005,Ishaan Patil,Delhi,Maharashtra,2024-09-25
+C1006,Arjun Jadhav,Pune,Telangana,2023-11-15
+C1007,Aditya Gupta,Chennai,Karnataka,2024-04-02
+C1008,Aditya Gupta,Bengaluru,Maharashtra,2024-12-27
+C1009,Arjun Patil,Chennai,Maharashtra,2025-11-12
+C1010,Neha Singh,Pune,Tamil Nadu,2025-04-09
+C1011,Arjun Pawar,Mumbai,Maharashtra,2026-06-30
+C1012,Priya Reddy,Bengaluru,Delhi,2026-04-02
+C1013,Ira More,Mumbai,Karnataka,2025-10-27
+C1014,Rahul Nair,Nagpur,Maharashtra,2025-04-05
+C1015,Arjun Singh,Delhi,Rajasthan,2024-02-01
+C1016,Meera Deshmukh,Mumbai,Maharashtra,2024-07-18
+C1017,Aisha Shah,Delhi,Tamil Nadu,2023-06-12
+C1018,Om Sharma,Mumbai,Tamil Nadu,2024-05-26
+C1019,Om Nair,Mumbai,Maharashtra,2026-06-21
+C1020,Sneha More,Hyderabad,Maharashtra,2024-08-05
+C1021,Priya Gupta,Chennai,Maharashtra,2023-06-05
+C1022,Aditya Pawar,Mumbai,Gujarat,2025-06-10
+C1023,Aisha Jadhav,Nashik,Gujarat,2026-08-09
+C1024,Rahul Reddy,Ahmedabad,Maharashtra,2026-04-01
+C1025,Kavya Gupta,Ahmedabad,Maharashtra,2024-01-10
+C1026,Ira Kulkarni,Hyderabad,Maharashtra,2024-09-12
+C1027,Ananya Mehta,Bengaluru,Maharashtra,2024-12-27
+C1028,Meera Sharma,Nagpur,Rajasthan,2023-12-06
+C1029,Arjun Kulkarni,Delhi,Rajasthan,2024-01-03
+C1030,Aditya Khan,Hyderabad,Maharashtra,2023-11-20
+C1031,Sana Gupta,Nashik,Tamil Nadu,2026-09-22
+C1032,Ananya Jadhav,Pune,Maharashtra,2025-10-17
+C1033,Rahul Joshi,Mumbai,Maharashtra,2026-02-24
+C1034,Sana Pawar,Ahmedabad,Telangana,2026-01-22
+C1035,Aisha Mehta,Bengaluru,Tamil Nadu,2023-05-25
+C1036,Ira Kulkarni,Bengaluru,Rajasthan,2026-04-21
+C1037,Meera Patil,Bengaluru,Maharashtra,2023-04-02
+C1038,Kavya Mehta,Chennai,Maharashtra,2024-10-12
+C1039,Kabir Deshmukh,Pune,Maharashtra,2025-03-24
+C1040,Diya Khan,Pune,Maharashtra,2024-05-04
+C1041,Sana Singh,Nashik,Gujarat,2023-07-19
+C1042,Priya Nair,Bengaluru,Tamil Nadu,2023-09-21
+C1043,Vihaan Khan,Delhi,Maharashtra,2026-02-02
+C1044,Aisha Joshi,Bengaluru,Gujarat,2024-03-12
+C1045,Ira Nair,Bengaluru,Karnataka,2024-02-29
+C1046,Rahul Nair,Ahmedabad,Telangana,2026-06-17
+C1047,Neha Pawar,Mumbai,Karnataka,2023-07-16
+C1048,Om Joshi,Hyderabad,Maharashtra,2026-06-06
+C1049,Ishaan Khan,Hyderabad,Gujarat,2026-06-13
+C1050,Vihaan Kulkarni,Bengaluru,Maharashtra,2025-03-29
+C1051,Neha Kulkarni,Jaipur,Maharashtra,2023-08-15
+C1052,Neha Sharma,Nashik,Maharashtra,2023-08-02
+C1053,Ira Gupta,Ahmedabad,Maharashtra,2024-01-25
+C1054,Ira More,Nagpur,Maharashtra,2025-02-28
+C1055,Meera Khan,Hyderabad,Maharashtra,2023-07-30
+C1056,Sneha Gupta,Hyderabad,Delhi,2024-09-15
+C1057,Diya Singh,Jaipur,Gujarat,2023-06-07
+C1058,Arjun Shah,Bengaluru,Maharashtra,2025-01-09
+C1059,Aarav Kulkarni,Nashik,Maharashtra,2025-08-27
+C1060,Ishaan Patil,Pune,Telangana,2023-03-17
+C1061,Rahul Khan,Nagpur,Gujarat,2023-09-24
+C1062,Kavya Mehta,Jaipur,Delhi,2023-08-27
+C1063,Om Shah,Pune,Tamil Nadu,2026-02-10
+C1064,Aisha Gupta,Jaipur,Telangana,2023-03-15
+C1065,Diya More,Hyderabad,Karnataka,2024-08-10
+C1066,Diya Shah,Mumbai,Maharashtra,2025-03-19
+C1067,Aisha Shah,Nagpur,Rajasthan,2024-12-06
+C1068,Ira Joshi,Hyderabad,Rajasthan,2025-07-20
+C1069,Vihaan Sharma,Nagpur,Maharashtra,2026-01-03
+C1070,Kabir Singh,Mumbai,Tamil Nadu,2024-06-22
+C1071,Dev Deshmukh,Delhi,Maharashtra,2026-02-07
+C1072,Sneha Singh,Delhi,Tamil Nadu,2024-03-11
+C1073,Dev Nair,Mumbai,Rajasthan,2026-09-08
+C1074,Aarav Deshmukh,Nashik,Maharashtra,2024-11-21
+C1075,Neha Sharma,Nashik,Karnataka,2025-10-03
+C1076,Om Joshi,Delhi,Maharashtra,2026-04-12
+C1077,Sana Joshi,Chennai,Telangana,2025-12-20
+C1078,Rahul More,Chennai,Gujarat,2026-03-10
+C1079,Rohan Shah,Ahmedabad,Maharashtra,2025-01-03
+C1080,Arjun Gupta,Chennai,Maharashtra,2023-03-01
+C1081,Dev More,Nagpur,Gujarat,2024-11-05
+C1082,Rahul Singh,Mumbai,Maharashtra,2023-09-06
+C1083,Rahul Nair,Delhi,Maharashtra,2026-05-01
+C1084,Kabir Kulkarni,Ahmedabad,Karnataka,2023-11-20
+C1085,Kabir Sharma,Ahmedabad,Telangana,2023-11-08
+C1086,Rohan Patil,Nashik,Delhi,2023-12-08
+C1087,Ira Khan,Nashik,Maharashtra,2025-05-29
+C1088,Kavya Singh,Pune,Gujarat,2025-02-20
+C1089,Aditya Kulkarni,Mumbai,Telangana,2026-07-22
+C1090,Sana Mehta,Hyderabad,Maharashtra,2024-07-23
+C1091,Sana Kulkarni,Hyderabad,Gujarat,2024-01-22
+C1092,Meera Khan,Nagpur,Gujarat,2023-03-09
+C1093,Meera Singh,Nagpur,Karnataka,2023-01-10
+C1094,Priya Pawar,Jaipur,Maharashtra,2024-05-26
+C1095,Ishaan Joshi,Bengaluru,Telangana,2026-06-20
+C1096,Kavya More,Jaipur,Telangana,2024-12-17
+C1097,Vihaan Pawar,Ahmedabad,Maharashtra,2026-05-07
+C1098,Dev Patil,Nagpur,Delhi,2023-05-20
+C1099,Kabir Patil,Nashik,Rajasthan,2023-05-08
+C1100,Kabir Jadhav,Ahmedabad,Maharashtra,2026-02-14
+C1101,Ananya Reddy,Delhi,Tamil Nadu,2023-05-27
+C1102,Meera Khan,Nashik,Maharashtra,2023-03-13
+C1103,Meera Deshmukh,Delhi,Tamil Nadu,2024-07-06
+C1104,Ira Jadhav,Hyderabad,Karnataka,2026-06-19
+C1105,Sneha Gupta,Ahmedabad,Maharashtra,2025-08-01
+C1106,Sneha Khan,Nashik,Gujarat,2023-05-16
+C1107,Ira Singh,Ahmedabad,Maharashtra,2026-02-19
+C1108,Aditya Joshi,Ahmedabad,Telangana,2026-02-28
+C1109,Aisha Patil,Mumbai,Maharashtra,2025-12-31
+C1110,Rahul Reddy,Mumbai,Gujarat,2026-05-19
+C1111,Rohan Singh,Hyderabad,Tamil Nadu,2023-11-25
+C1112,Aditya Deshmukh,Pune,Rajasthan,2026-09-02
+C1113,Aditya Joshi,Nashik,Karnataka,2024-03-14
+C1114,Neha Shah,Bengaluru,Karnataka,2026-01-02
+C1115,Arjun Kulkarni,Ahmedabad,Delhi,2025-03-03
+C1116,Meera Nair,Ahmedabad,Tamil Nadu,2025-12-02
+C1117,Aarav Gupta,Mumbai,Rajasthan,2025-05-08
+C1118,Meera Khan,Jaipur,Maharashtra,2025-05-28
+C1119,Kavya Singh,Pune,Delhi,2025-04-23
+C1120,Kabir More,Chennai,Maharashtra,2025-12-01
